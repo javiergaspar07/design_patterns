@@ -1,0 +1,2 @@
+Singleton
+Componente que es instanciado solo una vez

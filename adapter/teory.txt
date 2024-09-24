@@ -1,0 +1,1 @@
+Construccion que adapta una interfaz X existente de acuerdo a lo requerido por la interfaz Y

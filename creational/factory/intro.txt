@@ -1,0 +1,4 @@
+Factory: A component responsible solely for the wholesale (not piecewise) creation of objects.
+
+Considerar que, si una clase acumula varios metodos factory, de acuerdo al principio de unica responsabilidad
+esos metodos deberian pasar a estar en otra clase separada.

@@ -1,0 +1,1 @@
+Prototype: Objeto parcial o completamente inicializado que se copia (clona) y se hace uso de el.
